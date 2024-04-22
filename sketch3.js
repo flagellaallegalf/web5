@@ -3,7 +3,7 @@ let img2;
 let s;
 
 function preload(){
-    img1 = loadImage("resources5/media5/3.jpg");
+    img1 = loadImage("resources5/media5/2.jpg");
     img2 = loadImage("resources5/media5/4.jpg"); 
 }
 
